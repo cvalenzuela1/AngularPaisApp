@@ -1,0 +1,8 @@
+#tablaPais {
+    overflow: auto;
+    max-height: 450px;
+}
+
+#flag {
+    width: 50px;
+}

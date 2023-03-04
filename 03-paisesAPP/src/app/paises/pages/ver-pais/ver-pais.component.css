@@ -1,0 +1,8 @@
+#jsonPais {
+    overflow: scroll;
+    max-height: 350px;
+}
+
+.flag-medium {
+    width: 150px;
+}
